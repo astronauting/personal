@@ -1,5 +1,8 @@
 ---
-title: 博客的起点
+title: 写在最初
+date: 2023/2/25
+description: 开始尝试认真做一些属于自己的事情
+sticky: 1
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
